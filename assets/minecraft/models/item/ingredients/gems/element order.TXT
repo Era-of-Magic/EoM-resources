@@ -1,0 +1,22 @@
+
+(List has no ingame effect)
+
+# # # Element List # # #
+
+#1 fire
+#2 water
+#3 ice
+#4 air
+#5 earth
+#6 life
+#7 light
+#8 void
+
+
+
+# # # List of potential elements # # #
+
+- essence
+- vegetation(/plants)
+- magic
+-

@@ -1,0 +1,29 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\uFF00": 0
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/skill_point.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE100"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/parchment.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE101"
+            ]
+        }
+    ]
+}

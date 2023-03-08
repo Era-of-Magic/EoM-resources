@@ -1,0 +1,47 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\uF000": 0
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/mana_point.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\uE100"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/mana_exhaustion.png",
+            "ascent": 10,
+            "height": 12,
+            "chars": [
+                "\uE101"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/health_heart.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uE102"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/halfe_health_heart.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "\uE103"
+            ]
+        }
+    ]
+}

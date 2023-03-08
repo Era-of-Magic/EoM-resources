@@ -1,0 +1,9 @@
+{
+    "parent": "item/template_spawn_egg",
+    "overrides": [
+        { "predicate": { "custom_model_data": 1}, "model": "item/tools_weapons/chalkremover" },
+        { "predicate": { "custom_model_data": 2}, "model": "item/tools_weapons/chalk" },
+        { "predicate": { "custom_model_data": 100}, "model": "item/custom_tables/skill_table" },
+        { "predicate": { "custom_model_data": 101}, "model": "item/custom_tables/enhancement_table" }
+    ]
+}

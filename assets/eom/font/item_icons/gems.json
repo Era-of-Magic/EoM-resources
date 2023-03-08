@@ -1,0 +1,92 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\uE000": 0
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/3d_item_icons/air_gem.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\uF000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/3d_item_icons/earth_gem.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\uF001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/3d_item_icons/fire_gem.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\uF002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/3d_item_icons/ice_gem.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\uF003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/3d_item_icons/life_gem.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\uF004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/3d_item_icons/light_gem.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\uF005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/3d_item_icons/void_gem.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\uF006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/3d_item_icons/water_gem.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\uF007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/3d_item_icons/mana_crystal.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\uF008"
+            ]
+        }
+    ]
+}

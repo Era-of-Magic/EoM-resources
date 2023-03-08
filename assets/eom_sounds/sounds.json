@@ -1,0 +1,23 @@
+
+{
+  "boss_1_intro": {
+    "sounds": [
+      "magic_sounds:boss1/boss1_music_intro"
+    ]
+  },
+  "boss_1_loop": {
+    "sounds": [
+      "magic_sounds:boss1/boss1_music_loop"
+    ]
+  },
+  "boss_1_outro": {
+    "sounds": [
+      "magic_sounds:boss1/boss1_music_outro"
+    ]
+  },
+  "mana_music_surface_1": {
+    "sounds": [
+      "magic_sounds:music/dim_mana/music_surface_1"
+    ]
+  }
+}

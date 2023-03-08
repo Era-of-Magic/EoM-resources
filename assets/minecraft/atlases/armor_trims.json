@@ -1,0 +1,15 @@
+{
+    "sources": [
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "eom:trims/models/armor/magic_infused",
+                "eom:trims/models/armor/magic_infused_leggings"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "amethyst": "trims/color_palettes/amethyst"
+            }
+        }
+    ]
+}

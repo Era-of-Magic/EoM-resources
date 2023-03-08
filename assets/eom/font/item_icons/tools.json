@@ -1,0 +1,38 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4,
+                "\uE000": 0
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/blood_dagger.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\uF000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/chalk.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\uF001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/chalkremover.png",
+            "ascent": 11,
+            "height": 16,
+            "chars": [
+                "\uF002"
+            ]
+        }
+    ]
+}

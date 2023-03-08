@@ -1,0 +1,24 @@
+{
+    "parent": "minecraft:block/jigsaw",
+    "overrides": [
+        { "predicate": { "custom_model_data": 1}, "model": "item/ingredients/magic_dust" },
+        { "predicate": { "custom_model_data": 2}, "model": "item/ingredients/boss_spawner" },
+        { "predicate": { "custom_model_data": 3}, "model": "item/ingredients/alpha_skeleton_skull" },
+        { "predicate": { "custom_model_data": 4}, "model": "item/ingredients/parchment" },
+        { "predicate": { "custom_model_data": 5}, "model": "item/ingredients/blood_drops" },
+        { "predicate": { "custom_model_data": 6}, "model": "item/ingredients/blood_diamond_block" },
+        { "predicate": { "custom_model_data": 8}, "model": "item/ingredients/mana_crystal" },
+        { "predicate": { "custom_model_data": 9}, "model": "item/ingredients/dilatant_slime" },
+        { "predicate": { "custom_model_data": 999}, "model": "item/xp/magic_xp" },
+        { "predicate": { "custom_model_data": 1000}, "model": "item/spells/scrolls/spell_scroll" },
+        { "predicate": { "custom_model_data": 100000}, "model": "item/ingredients/gems/fire_gem" },
+        { "predicate": { "custom_model_data": 100001}, "model": "item/ingredients/gems/water_gem" },
+        { "predicate": { "custom_model_data": 100002}, "model": "item/ingredients/gems/ice_gem" },
+        { "predicate": { "custom_model_data": 100003}, "model": "item/ingredients/gems/air_gem" },
+        { "predicate": { "custom_model_data": 100004}, "model": "item/ingredients/gems/earth_gem" },
+        { "predicate": { "custom_model_data": 100005}, "model": "item/ingredients/gems/life_gem" },
+        { "predicate": { "custom_model_data": 100006}, "model": "item/ingredients/gems/light_gem" },
+        { "predicate": { "custom_model_data": 100007}, "model": "item/ingredients/gems/void_gem" },
+        { "predicate": { "custom_model_data": 200100}, "model": "item/accessories/player_rings/place_holder_ring" }
+    ]
+}

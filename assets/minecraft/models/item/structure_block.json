@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/structure_block",
+    "overrides": [
+        { "predicate": { "custom_model_data": 1}, "model": "item/bosse/burning_skull/burning_skull_head" },
+        { "predicate": { "custom_model_data": 2}, "model": "item/bosse/burning_skull/burning_skull_jaw" },
+        { "predicate": { "custom_model_data": 100100}, "model": "item/altars/crafting_altar_parts/crafting_altar_energy_core" },
+        { "predicate": { "custom_model_data": 100101}, "model": "item/altars/crafting_altar_parts/crafting_altar" },
+        { "predicate": { "custom_model_data": 100102}, "model": "item/altars/crafting_altar_parts/crafting_altar_pedestal" },
+        { "predicate": { "custom_model_data": 100200}, "model": "item/altars/spawn_altar_parts/spawn_altar_base" },
+        { "predicate": { "custom_model_data": 100201}, "model": "item/altars/spawn_altar_parts/spawn_altar_claws" }
+    ]
+}
