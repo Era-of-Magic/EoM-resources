@@ -34,6 +34,7 @@
         { "predicate": { "custom_model_data": 100015}, "model": "item/icons/arrow_button_r" },
         { "predicate": { "custom_model_data": 100016}, "model": "item/icons/magic_xp_icon" },
         { "predicate": { "custom_model_data": 100017}, "model": "item/icons/xp_icon" },
+        { "predicate": { "custom_model_data": 100018}, "model": "item/icons/confirm_button" },
         { "predicate": { "custom_model_data": 100100}, "model": "item/icons/back" },
         { "predicate": { "custom_model_data": 200100}, "model": "item/spells/spell_parts/fireball" },
         { "predicate": { "custom_model_data": 200101}, "model": "item/spells/spell_part/flame"},
