@@ -5,3 +5,7 @@ Big thanks to madsnakeeye for helping me with some of the textures. https://www.
   - Spell Scroll
   - Parchment
   - Enhancment Book
+
+Also thanks to Jaegerwald for helping with gui texture. https://jaegerwald.carrd.co
+ Textures:
+  - Enhancement Table gui
