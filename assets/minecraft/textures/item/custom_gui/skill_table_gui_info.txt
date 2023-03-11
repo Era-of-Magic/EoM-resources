@@ -1,0 +1,3 @@
+Slot haben 40% Deckkraft und benutzt Einfaces Nachbelichten
+
+Pfeile haben 100% Deckkraft und benutzen Gamma abdunkeln
