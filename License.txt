@@ -1,5 +1,3 @@
-MIT License
-
 Copyright (c) 2022 HeDeAn
 
 Permission is hereby granted, to any person obtaining a copy
